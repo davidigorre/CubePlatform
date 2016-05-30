@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 74794a8fc1abc7649af863f6ea3cb912
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base
+    100002: Boton 1
+    100004: Boton 2
+    100006: Boton 3
+    100008: Cinta transportadora
+    100010: Horno
+    100012: Inicio
+    100014: Modulo movil 1
+    100016: Modulo movil 2
+    100018: //RootNode
+    100020: Pared final
+    100022: Pared1
+    100024: Pared2
+    100026: Pivotes electricos 1
+    100028: Pivotes electricos 2
+    100030: Plataforma movil
+    100032: Puerta 1
+    100034: Puerta 2
+    400000: Base
+    400002: Boton 1
+    400004: Boton 2
+    400006: Boton 3
+    400008: Cinta transportadora
+    400010: Horno
+    400012: Inicio
+    400014: Modulo movil 1
+    400016: Modulo movil 2
+    400018: //RootNode
+    400020: Pared final
+    400022: Pared1
+    400024: Pared2
+    400026: Pivotes electricos 1
+    400028: Pivotes electricos 2
+    400030: Plataforma movil
+    400032: Puerta 1
+    400034: Puerta 2
+    2300000: Base
+    2300002: Boton 1
+    2300004: Boton 2
+    2300006: Boton 3
+    2300008: Cinta transportadora
+    2300010: Horno
+    2300012: Inicio
+    2300014: Modulo movil 1
+    2300016: Modulo movil 2
+    2300018: Pared final
+    2300020: Pared1
+    2300022: Pared2
+    2300024: Pivotes electricos 1
+    2300026: Pivotes electricos 2
+    2300028: Plataforma movil
+    2300030: Puerta 1
+    2300032: Puerta 2
+    3300000: Base
+    3300002: Boton 1
+    3300004: Boton 2
+    3300006: Boton 3
+    3300008: Cinta transportadora
+    3300010: Horno
+    3300012: Inicio
+    3300014: Modulo movil 1
+    3300016: Modulo movil 2
+    3300018: Pared final
+    3300020: Pared1
+    3300022: Pared2
+    3300024: Pivotes electricos 1
+    3300026: Pivotes electricos 2
+    3300028: Plataforma movil
+    3300030: Puerta 1
+    3300032: Puerta 2
+    4300000: Plataforma movil
+    4300002: Puerta 2
+    4300004: Boton 3
+    4300006: Puerta 1
+    4300008: Pared2
+    4300010: Modulo movil 2
+    4300012: Modulo movil 1
+    4300014: Pivotes electricos 2
+    4300016: Pivotes electricos 1
+    4300018: Boton 2
+    4300020: Pared1
+    4300022: Horno
+    4300024: Cinta transportadora
+    4300026: Inicio
+    4300028: Pared final
+    4300030: Base
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

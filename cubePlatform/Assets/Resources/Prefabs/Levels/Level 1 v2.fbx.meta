@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 54951dfa965c91648bd851c07fc9ab65
+timeCreated: 1458141929
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base
+    100002: Boton 1
+    100004: Boton 1 Base
+    100006: Boton 2
+    100008: Boton 2 Base
+    100010: Boton 3
+    100012: Boton 3 Base
+    100014: Caja 1
+    100016: Caja 2
+    100018: Cinta transportadora
+    100020: Horno
+    100022: Horno Salida
+    100024: //RootNode
+    100026: Modulo movil 1
+    100028: Modulo movil 2
+    100030: Panel Lava
+    100032: Pared 1
+    100034: Pared 2
+    100036: Pared 3
+    100038: Pared 4
+    100040: Pared final
+    100042: Pared final 2
+    100044: Plataforma movil
+    100046: Point
+    400000: Base
+    400002: Boton 1
+    400004: Boton 1 Base
+    400006: Boton 2
+    400008: Boton 2 Base
+    400010: Boton 3
+    400012: Boton 3 Base
+    400014: Caja 1
+    400016: Caja 2
+    400018: Cinta transportadora
+    400020: Horno
+    400022: Horno Salida
+    400024: //RootNode
+    400026: Modulo movil 1
+    400028: Modulo movil 2
+    400030: Panel Lava
+    400032: Pared 1
+    400034: Pared 2
+    400036: Pared 3
+    400038: Pared 4
+    400040: Pared final
+    400042: Pared final 2
+    400044: Plataforma movil
+    400046: Point
+    2300000: Base
+    2300002: Boton 1
+    2300004: Boton 1 Base
+    2300006: Boton 2
+    2300008: Boton 2 Base
+    2300010: Boton 3
+    2300012: Boton 3 Base
+    2300014: Caja 1
+    2300016: Caja 2
+    2300018: Cinta transportadora
+    2300020: Horno
+    2300022: Horno Salida
+    2300024: Modulo movil 1
+    2300026: Modulo movil 2
+    2300028: Panel Lava
+    2300030: Pared 1
+    2300032: Pared 2
+    2300034: Pared 3
+    2300036: Pared 4
+    2300038: Pared final
+    2300040: Pared final 2
+    2300042: Plataforma movil
+    3300000: Base
+    3300002: Boton 1
+    3300004: Boton 1 Base
+    3300006: Boton 2
+    3300008: Boton 2 Base
+    3300010: Boton 3
+    3300012: Boton 3 Base
+    3300014: Caja 1
+    3300016: Caja 2
+    3300018: Cinta transportadora
+    3300020: Horno
+    3300022: Horno Salida
+    3300024: Modulo movil 1
+    3300026: Modulo movil 2
+    3300028: Panel Lava
+    3300030: Pared 1
+    3300032: Pared 2
+    3300034: Pared 3
+    3300036: Pared 4
+    3300038: Pared final
+    3300040: Pared final 2
+    3300042: Plataforma movil
+    4300000: Horno Salida
+    4300002: Pared 4
+    4300004: Caja 2
+    4300006: Caja 1
+    4300008: Pared final 2
+    4300010: Boton 2 Base
+    4300012: Boton 2
+    4300014: Boton 3
+    4300016: Boton 3 Base
+    4300018: Boton 1 Base
+    4300020: Boton 1
+    4300022: Panel Lava
+    4300024: Pared 3
+    4300026: Plataforma movil
+    4300028: Pared 2
+    4300030: Modulo movil 2
+    4300032: Modulo movil 1
+    4300034: Pared 1
+    4300036: Cinta transportadora
+    4300038: Pared final
+    4300040: Base
+    4300042: Horno
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
